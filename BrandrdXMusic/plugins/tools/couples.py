@@ -151,8 +151,7 @@ async def ctest(_, message):
          
 
 __mod__ = "COUPLES"
-__help__ = """
-**» /couples** - Get Todays Couples Of The Group In Interactive View
+__help__ = """<blockquote><b>» /couples - Get Todays Couples Of The Group In Interactive View</b></blockquote>
 """
 
 
