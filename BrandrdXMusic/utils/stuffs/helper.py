@@ -5,23 +5,23 @@ class Helper(object):
 ᴀsᴋ ʏᴏᴜʀ ᴅᴏᴜʙᴛs ᴀᴛ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ
 
 ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : /</blockquote>'''
-    HELP_ChatGPT = '''CʜᴀᴛGPT
+    HELP_ChatGPT = '''<blockquote>CʜᴀᴛGPT
 
 CʜᴀᴛGPT ᴄᴏᴍᴍᴀɴᴅꜱ:
 
-/ask ➠ ǫᴜᴇʀɪᴇs ᴛʜᴇ ᴀɪ ᴍᴏᴅᴇʟ ᴛᴏ ɢᴇᴛ ᴀ ʀᴇsᴘᴏɴsᴇ ᴛᴏ ʏᴏᴜʀ ǫᴜᴇsᴛɪᴏɴ.
+/ask ➠ ǫᴜᴇʀɪᴇs ᴛʜᴇ ᴀɪ ᴍᴏᴅᴇʟ ᴛᴏ ɢᴇᴛ ᴀ ʀᴇsᴘᴏɴsᴇ ᴛᴏ ʏᴏᴜʀ ǫᴜᴇsᴛɪᴏɴ.</blockquote>
 '''
 
-    HELP_Reel = '''Rᴇᴇʟ
+    HELP_Reel = '''<blockquote>Rᴇᴇʟ
 
 Rᴇᴇʟ ᴄᴏᴍᴍᴀɴᴅꜱ:
 
 /ig [URL] ➠ ᴅᴏᴡɴʟᴏᴀᴅ ɪɴsᴛᴀɢʀᴀᴍ ʀᴇᴇʟs. Pʀᴏᴠɪᴅᴇ ᴛʜᴇ ɪɴsᴛᴀɢʀᴀᴍ ʀᴇᴇʟ URL ᴀғᴛᴇʀ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ.
 /instagram [URL] ➠ ᴅᴏᴡɴʟᴏᴀᴅ ɪɴsᴛᴀɢʀᴀᴍ ʀᴇᴇʟs. Pʀᴏᴠɪᴅᴇ ᴛʜᴇ ɪɴsᴛᴀɢʀᴀᴍ ʀᴇᴇʟ URL ᴀғᴛᴇʀ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ.
-/reel [URL]  ➠ ᴅᴏᴡɴʟᴏᴀᴅ ɪɴsᴛᴀɢʀᴀᴍ ʀᴇᴇʟs. Pʀᴏᴠɪᴅᴇ ᴛʜᴇ ɪɴsᴛᴀɢʀᴀᴍ ʀᴇᴇʟ URL ᴀғᴛᴇʀ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ.
+/reel [URL]  ➠ ᴅᴏᴡɴʟᴏᴀᴅ ɪɴsᴛᴀɢʀᴀᴍ ʀᴇᴇʟs. Pʀᴏᴠɪᴅᴇ ᴛʜᴇ ɪɴsᴛᴀɢʀᴀᴍ ʀᴇᴇʟ URL ᴀғᴛᴇʀ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ.</blockquote>
 '''
 
-    HELP_TagAll = '''Tᴀɢ
+    HELP_TagAll = '''<blockquote>Tᴀɢ
 
   Tᴀɢ ᴄᴏᴍᴍᴀɴᴅꜱ:
 
@@ -38,17 +38,17 @@ Rᴇᴇʟ ᴄᴏᴍᴍᴀɴᴅꜱ:
 
 ๏ /shayari ➛ ʀᴀɴᴅᴏᴍ sʜᴀʏᴀʀɪ ᴛᴀɢ sᴛᴏᴘ ⇴ /shstop
 
-๏ /utag ➛ ᴀɴʏ ᴡʀɪᴛᴛᴇɴ ᴛᴇxᴛ ᴛᴀɢ sᴛᴏᴘ ⇴ /cancel
+๏ /utag ➛ ᴀɴʏ ᴡʀɪᴛᴛᴇɴ ᴛᴇxᴛ ᴛᴀɢ sᴛᴏᴘ ⇴ /cancel</blockquote>
 '''
 
-    HELP_Info = '''Iɴꜰᴏ
+    HELP_Info = '''<blockquote>Iɴꜰᴏ
 
 Iɴꜰᴏ ᴄᴏᴍᴍᴀɴᴅꜱ:
 
 /id : ɢᴇᴛ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ɢʀᴏᴜᴘ ɪᴅ. ɪғ ᴜsᴇᴅ ʙʏ ʀᴇᴘʟʏɪɴɢ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ, ɢᴇᴛs ᴛʜᴀᴛ ᴜsᴇʀ's ɪᴅ.
-/info : ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜsᴇʀ.
+/info : ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜsᴇʀ.</blockquote>
 '''
-    HELP_History = '''Hɪsᴛᴏʀʏ
+    HELP_History = '''<blockquote>Hɪsᴛᴏʀʏ
 
 Hɪsᴛᴏʀʏ ᴄᴏᴍᴍᴀɴᴅꜱ:
 
@@ -69,25 +69,25 @@ Dᴇᴛᴀɪs:
 Exᴀᴍᴘᴇs:
 ⦿ /sɢ ᴜsᴇʀɴᴀᴍᴇ`
 ⦿ /sɢ ᴜsᴇʀ_ɪᴅ`
-⦿ /sɢ [ʀᴇᴘʏ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ]`
+⦿ /sɢ [ʀᴇᴘʏ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ]`</blockquote>
 '''
 
-    HELP_Couples = '''ᴄᴏᴜᴘʟᴇꜱ
+    HELP_Couples = '''<blockquote>ᴄᴏᴜᴘʟᴇꜱ
 
 ᴄᴏᴜᴘʟᴇꜱ ᴄᴏᴍᴍᴀɴᴅꜱ:
 
-/couples - ᴄʜᴏᴏsᴇ 2 ᴜsᴇʀs ᴀɴᴅ sᴇɴᴅ ᴛʜᴇɪʀ ɴᴀᴍᴇ ᴀs ᴄᴏᴜᴘʟᴇs ɪɴ ʏᴏᴜʀ ᴄʜᴀᴛ.
+/couples - ᴄʜᴏᴏsᴇ 2 ᴜsᴇʀs ᴀɴᴅ sᴇɴᴅ ᴛʜᴇɪʀ ɴᴀᴍᴇ ᴀs ᴄᴏᴜᴘʟᴇs ɪɴ ʏᴏᴜʀ ᴄʜᴀᴛ.</blockquote>
 '''
 
-    HELP_Extra = '''Exᴛʀᴀ
+    HELP_Extra = '''<blockquote>Exᴛʀᴀ
 
 Exᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅꜱ:
 
 ⦿ /tgm ➠ ᴜᴘʟᴏᴀᴅs ᴀ ᴘʜᴏᴛᴏ (ᴜɴᴅᴇʀ 𝟻ᴍʙ) ᴛᴏ ᴛʜᴇ ᴄʟᴏᴜᴅ ᴀɴᴅ ɢɪᴠᴇs ᴀ ʟɪɴᴋ.
 ⦿ /paste ➠ ᴜᴘʟᴏᴀᴅs ᴀ ᴛᴇxᴛ sɴɪᴘᴘᴇᴛ ᴛᴏ ᴛʜᴇ ᴄʟᴏᴜᴅ ᴀɴᴅ ɢɪᴠᴇs ᴀ ʟɪɴᴋ.
-⦿ /tr ➠ ᴛʀᴀɴsʟᴀᴛᴇs ᴛᴇxᴛ.
+⦿ /tr ➠ ᴛʀᴀɴsʟᴀᴛᴇs ᴛᴇxᴛ.</blockquote>
 '''
-    HELP_Action = '''Aᴄᴛɪᴏɴ
+    HELP_Action = '''<blockquote>Aᴄᴛɪᴏɴ
 
 Aᴄᴛɪᴏɴ ᴄᴏᴍᴍᴀɴᴅꜱ:
 
@@ -105,9 +105,9 @@ Admins only:
  ❍ /tmute <userhandle> x(m/h/d): mutes a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
  ❍ /unmute <userhandle>: unmutes a user. Can also be used as a reply, muting the replied to user.
 __
-𝐒ᴘᴇᴄɪᴀʟ 𝐂ᴏᴍᴍᴀɴᴅs 𝐒ᴜᴘᴘᴏʀᴛ 𝐀ʟʟ 𝐄xᴀᴍᴘʟᴇ  - Bɾαɳԃҽԃ  Ⴆαɳ Ⴆɾαɳԃҽԃ ɱυƚҽ Ⴆɾαɳԃҽԃ ρɾσɱσƚҽ ..... 𝚎𝚝𝚌
+𝐒ᴘᴇᴄɪᴀʟ 𝐂ᴏᴍᴍᴀɴᴅs 𝐒ᴜᴘᴘᴏʀᴛ 𝐀ʟʟ 𝐄xᴀᴍᴘʟᴇ  -  ..... 𝚎𝚝𝚌</blockquote>
 '''
-    HELP_Search = '''Sᴇᴀʀᴄʜ
+    HELP_Search = '''<blockquote>Sᴇᴀʀᴄʜ
 
 Sᴇᴀʀᴄʜ ᴄᴏᴍᴍᴀɴᴅꜱ:
 
@@ -115,10 +115,10 @@ Sᴇᴀʀᴄʜ ᴄᴏᴍᴍᴀɴᴅꜱ:
 • /image (/imgs) <query> : Get the images regarding to your query
 
 Example:
-/google pyrogram: return top 5 reuslts.
+/google pyrogram: return top 5 reuslts.</blockquote>
 '''
 
-    HELP_Font = '''ғᴏɴᴛ
+    HELP_Font = '''<blockquote>ғᴏɴᴛ
 
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ ғᴏɴᴛ ᴍᴏᴅᴜʟᴇ:
 
@@ -133,62 +133,62 @@ Example:
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ Bᴏᴛs ᴍᴏᴅᴜʟᴇ:
 ɢᴀᴍᴇs ᴍᴏᴅᴜʟᴇ:
 
-◌ /bots - ɢᴇᴛ ᴀ ʟɪsᴛ ᴏғ ʙᴏᴛs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
+◌ /bots - ɢᴇᴛ ᴀ ʟɪsᴛ ᴏғ ʙᴏᴛs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.</blockquote>
 '''
-    HELP_TG = '''Ⓣ-ɢʀᴀᴘʜ
+    HELP_TG = '''<blockquote>Ⓣ-ɢʀᴀᴘʜ
 
 Ⓣ-ɢʀᴀᴘʜ ᴄᴏᴍᴍᴀɴᴅꜱ:
 
 ᴄʀᴇᴀᴛᴇ ᴀ ᴛᴇʟᴇɢʀᴀᴘʜ ʟɪɴᴋ ᴀɴʏ ᴍᴇᴅɪᴀ!
 
 ◌ /tgm [ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴍᴇᴅɪᴀ]
-◌ /tgt [ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴍᴇᴅɪᴀ]
+◌ /tgt [ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴍᴇᴅɪᴀ]</blockquote>
 '''
-    HELP_Source = '''Sᴏᴜʀᴄᴇ
+    HELP_Source = '''<blockquote>Sᴏᴜʀᴄᴇ
 
 Tʜɪs ᴍᴏᴅᴜᴇ ᴘʀᴏᴠɪᴅᴇs ᴜᴛɪɪᴛʏ ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ ᴜsᴇʀs ᴛᴏ ɪɴᴛᴇʀᴀᴄᴛ ᴡɪᴛʜ ᴛʜᴇ ʙᴏᴛ.:
 
 Sᴏᴜʀᴄᴇ ᴍᴏᴅᴜʟᴇ:
 
-◌ /ʀᴇᴘᴏ : Gᴇᴛ ᴛʜᴇ ɪɴᴋ ᴛᴏ ᴛʜᴇ ʙᴏᴛ's sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ.
+◌ /ʀᴇᴘᴏ : Gᴇᴛ ᴛʜᴇ ɪɴᴋ ᴛᴏ ᴛʜᴇ ʙᴏᴛ's sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ.</blockquote>
 '''
-    HELP_TD = '''Tʀᴜᴛʜ-ᗪᴀʀᴇ
+    HELP_TD = '''<blockquote>Tʀᴜᴛʜ-ᗪᴀʀᴇ
 
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ Tʀᴜᴛʜ-ᗪᴀʀᴇ ᴍᴏᴅᴜʟᴇ:
 
 ᴛʀᴜᴛʜ ᴀɴᴅ ᴅᴀʀᴇ
 ◌ /truth : sᴇɴᴅs ᴀ ʀᴀɴᴅᴏᴍ ᴛʀᴜᴛʜ sᴛʀɪɴɢ.
-◌ /dare : sᴇɴᴅs ᴀ ʀᴀɴᴅᴏᴍ ᴅᴀʀᴇ sᴛʀɪɴɢ.
+◌ /dare : sᴇɴᴅs ᴀ ʀᴀɴᴅᴏᴍ ᴅᴀʀᴇ sᴛʀɪɴɢ.</blockquote>
 '''
-    HELP_Quiz = '''Qᴜɪᴢ
+    HELP_Quiz = '''<blockquote>Qᴜɪᴢ
 
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ Qᴜɪᴢ ᴍᴏᴅᴜʟᴇ:
 
 Qᴜɪᴢ
-◌ /quiz - ᴛᴏ ɢᴇᴛ ᴀɴ ʀᴀɴᴅᴏᴍ ǫᴜɪᴢ
+◌ /quiz - ᴛᴏ ɢᴇᴛ ᴀɴ ʀᴀɴᴅᴏᴍ ǫᴜɪᴢ</blockquote>
 '''
-    HELP_TTS = '''ᴛᴛs
+    HELP_TTS = '''<blockquote>ᴛᴛs
 
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ ᴛᴛs ᴍᴏᴅᴜʟᴇ:
 
 ❀ ᴛᴛs
 ◌ /tts : [ᴛᴇxᴛ]
 
-◌ ᴜsᴀɢᴇ ➛ ᴛᴇxᴛ ᴛᴏ ᴀᴜᴅɪᴏ
+◌ ᴜsᴀɢᴇ ➛ ᴛᴇxᴛ ᴛᴏ ᴀᴜᴅɪᴏ</blockquote>
 '''
-    HELP_Radio = '''Radio
+    HELP_Radio = '''<blockquote>Radio
 
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ Radio ᴍᴏᴅᴜʟᴇ:
 
-◌ /radio - ᴛᴏ ᴘʟᴀʏ ʀᴀᴅɪᴏ ɪɴ ᴛʜᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ.
+◌ /radio - ᴛᴏ ᴘʟᴀʏ ʀᴀᴅɪᴏ ɪɴ ᴛʜᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ.</blockquote>
 '''
-    HELP_Q = '''ǫᴜᴏᴛʟʏ
+    HELP_Q = '''<blockquote>ǫᴜᴏᴛʟʏ
 
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ ǫᴜᴏᴛʟʏ ᴍᴏᴅᴜʟᴇ:
 
 ◌ /q : ᴄʀᴇᴀᴛᴇ ᴀ ǫᴜᴏᴛᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇssᴀɢᴇ
 
-◌ /q r : ᴄʀᴇᴀᴛᴇ ᴀ ǫᴜᴏᴛᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇssᴀɢᴇ ᴡɪᴛʜ ʀᴇᴘʟʏ
+◌ /q r : ᴄʀᴇᴀᴛᴇ ᴀ ǫᴜᴏᴛᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇssᴀɢᴇ ᴡɪᴛʜ ʀᴇᴘʟʏ</blockquote>
 '''
     
     
