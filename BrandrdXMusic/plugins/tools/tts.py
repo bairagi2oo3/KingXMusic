@@ -10,7 +10,7 @@ from BrandrdXMusic import app
 async def text_to_speech(client, message):
     if len(message.command) < 2:
         return await message.reply_text(
-            "Please provide some text to convert to speech."
+            "<blockquote><b>Please provide some text to convert to speech.</b></blockquote>"
         )
 
     text = message.text.split(None, 1)[1]
@@ -24,7 +24,7 @@ async def text_to_speech(client, message):
     await message.reply_audio(audio_file)
 
 
-__HELP__ = """
+__HELP__ = """<blockquote><b>
 **ᴛᴇxᴛ ᴛᴏ sᴘᴇᴇᴄʜ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅ**
 
 ᴜsᴇ ᴛʜᴇ `/tts` ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴄᴏɴᴠᴇʀᴛ ᴛᴇxᴛ ɪɴᴛᴏ sᴘᴇᴇᴄʜ.
@@ -35,7 +35,7 @@ __HELP__ = """
 - `/tts Namaste Duniya`
 
 **ɴᴏᴛᴇ:**
-ᴍᴀᴋᴇ sᴜʀᴇ ᴛᴏ ᴘʀᴏᴠɪᴅᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴛʜᴇ `/tts` ᴄᴏᴍᴍᴀɴᴅ.
+ᴍᴀᴋᴇ sᴜʀᴇ ᴛᴏ ᴘʀᴏᴠɪᴅᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴛʜᴇ `/tts` ᴄᴏᴍᴍᴀɴᴅ.</b></blockquote>
 """
 
 __MODULE__ = "Tᴛs"
